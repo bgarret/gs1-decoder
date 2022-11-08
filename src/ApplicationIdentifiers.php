@@ -25,6 +25,7 @@ class ApplicationIdentifiers
         Identifiers\ExpirationDateIdentifier::class,             // 17
         Identifiers\VariantIdentifier::class,                    // 20
         Identifiers\SerialNumberIdentifier::class,               // 21
+        Identifiers\CountIdentifier::class,                      // 37
         Identifiers\CompanyInternalInformationIdentifier::class, // 91
 
         Identifiers\OriginIdentifier::class,                     // 422

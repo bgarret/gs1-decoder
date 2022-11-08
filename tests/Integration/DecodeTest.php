@@ -126,6 +126,11 @@ class DecodeTest extends TestCase
                 '91',
                 '35',
             ],
+            'Count of trade items or trade item pieces contained in a logistic unit [Numeric]' => [
+                '01006141410073491714123110A12345B[FNC1]3710[FNC1]',
+                '37',
+                '10',
+            ],
             'Country of origin of a trade item' => [
                 '0100614141007349422528[FNC1]',
                 '422',
